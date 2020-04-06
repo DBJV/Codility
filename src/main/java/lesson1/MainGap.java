@@ -4,7 +4,7 @@ public class MainGap {
     public static void main(String[] args) {
 
         BinaryGap test = new BinaryGap();
-        test.solution(1075);
+        test.solution(529);
     }
 }
 
